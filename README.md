@@ -21,6 +21,7 @@ The models we will analyze include:
 
 ### Text Evaluation
 [ROUGE](https://github.com/andersjo/pyrouge/tree/master/tools/ROUGE-1.5.5) - Recall-Oriented Understudy for Gisting Evaluation. Generally it is a set of metrics for evaluating summarization of texts
+
 [pyRouge](https://pypi.org/project/rouge/) - Python wrapper for the ROUGE summarization evaluation package.
 
 ### Text Statistical Analysis
