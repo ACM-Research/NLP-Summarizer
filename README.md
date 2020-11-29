@@ -30,3 +30,7 @@ The models we will analyze include:
 ### Natural Language Processing
 [spaCy](https://spacy.io/) - Open source package used to perform information extraction and build natural language understanding systems for NLP analysis.
 
+## Poster
+
+![img](https://github.com/ACM-Research/NLP-Summarizer/blob/master/poster.JPG)
+
