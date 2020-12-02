@@ -1,5 +1,8 @@
 # Natural Language Processing for Text Summarization
 
+## Poster
+![img](https://github.com/ACM-Research/NLP-Summarizer/blob/master/poster.JPG)
+
 ## Objective
 As Natural Language Processing models and tools are becoming more powerful and precise, automated text summarization to extract critical information out of bodies of text has become more practical and important in a world surrounded by information. Researchers in NLP are constantly refining their tools and models to becoming the state of the art, but summarization models are often pigeonholed into a theme of text. We seek to analyze how different models perform summarization on varying corpora of text and to understand the comparative strengths and weaknesses that impact summarization performance. 
 ## Models
@@ -30,7 +33,10 @@ The models we will analyze include:
 ### Natural Language Processing
 [spaCy](https://spacy.io/) - Open source package used to perform information extraction and build natural language understanding systems for NLP analysis.
 
-## Poster
-
-![img](https://github.com/ACM-Research/NLP-Summarizer/blob/master/poster.JPG)
-
+## Contributors
+- [Adithya Viswanathan](https://github.com/AdithyaViswanathan1)
+- [Dylan Trang](https://github.com/Trippt1c)
+- [Fawaz Khurram](https://github.com/fawazkhurram)
+- [Rick Gao](https://github.com/rickgao12)
+- [Varun Joshi](https://github.com/varuncj02)
+- [Brian Nguyen](https://github.com/briannoogin) - Research Lead
